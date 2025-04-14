@@ -114,7 +114,7 @@ const RegistrationForm = () => {
   );
 };
 
-// **Styles for Background & Glassmorphis**
+// **Styles for Background & Glassmorphism**
 const overlay = {position: "fixed",top: 0,left: 0,width: "100vw",height: "100vh",display: "flex",justifyContent: "center",alignItems: "center",
   backgroundImage: "url('https://healthystadia.eu/wp-content/uploads/2017/12/Background-Registration-Form.png')",
   backgroundSize: "cover",backgroundPosition: "center",};
