@@ -116,7 +116,7 @@ const RegistrationForm = () => {
 
 // **Styles for Background & Glassmorphism**
 const overlay = {position: "fixed",top: 0,left: 0,width: "100vw",height: "100vh",display: "flex",justifyContent: "center",alignItems: "center",
-  backgroundImage: "url('https://healthystadia.eu/wp-content/uploads/2017/12/Background-Registration-Form.png')",
+  backgroundImage: "url('https://www.agbt.org/wp-content/uploads/2020/06/banner-gm-apply-min.png')",
   backgroundSize: "cover",backgroundPosition: "center",};
 
 const modal = { width: "100%", maxWidth: "500px"};
